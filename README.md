@@ -23,15 +23,24 @@ Built using Python, Scikit-learn, NLTK, and Streamlit, and deployed online for r
 
 ## 🚀 Project Overview
 
-- #### This project demonstrates how Machine Learning and NLP techniques can analyze textual data and classify sentiment.
+This project demonstrates how **Machine Learning** and **Natural Language Processing (NLP)** techniques can analyze textual data and classify sentiment.
 
-- #### Users can:
-i. Enter any tweet text
-ii. Click Analyze
-iii. Instantly get sentiment prediction (Positive / Negative)
+### 👤 Users Can:
 
-- #### The model preprocesses text, removes stopwords, applies stemming, vectorizes the text, and predicts sentiment using a trained ML model.
+1. Enter any tweet text  
+2. Click **Analyze**  
+3. Instantly get sentiment prediction (**Positive / Negative**)  
 
+### ⚙️ How It Works
+
+The system performs the following steps:
+
+- Text preprocessing and cleaning  
+- Stopword removal  
+- Word stemming  
+- TF-IDF vectorization  
+- Sentiment prediction using a trained Machine Learning model
+   
 ---
 
 ## 🎯 Application Features
