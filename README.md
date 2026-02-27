@@ -27,9 +27,9 @@ This project demonstrates how **Machine Learning** and **Natural Language Proces
 
 ### 👤 Users Can:
 
-1. Enter any tweet text  
-2. Click **Analyze**  
-3. Instantly get sentiment prediction (**Positive / Negative**)  
+- Enter any tweet text
+- Click **Analyze**
+- Instantly get sentiment prediction (**Positive / Negative**)  
 
 ### ⚙️ How It Works
 
