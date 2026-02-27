@@ -1,11 +1,13 @@
 # 🐦 Twitter Sentiment Analysis Web App
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154734?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
+![TF-IDF](https://img.shields.io/badge/Vectorizer-TF--IDF-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-Classification-purple)
+![NLP](https://img.shields.io/badge/NLP-Sentiment--Analysis-blueviolet)
+![Pickle](https://img.shields.io/badge/Model-Serialization-lightgrey)
 
 A Machine Learning–based Twitter Sentiment Analysis Web Application that classifies tweets as Positive or Negative using Natural Language Processing (NLP).
 
@@ -24,9 +26,9 @@ Built using Python, Scikit-learn, NLTK, and Streamlit, and deployed online for r
 - #### This project demonstrates how Machine Learning and NLP techniques can analyze textual data and classify sentiment.
 
 - #### Users can:
-- Enter any tweet text
-- Click Analyze
-- Instantly get sentiment prediction (Positive / Negative)
+i. Enter any tweet text
+ii. Click Analyze
+iii. Instantly get sentiment prediction (Positive / Negative)
 
 - #### The model preprocesses text, removes stopwords, applies stemming, vectorizes the text, and predicts sentiment using a trained ML model.
 
@@ -68,7 +70,7 @@ https://www.kaggle.com/datasets/kazanova/sentiment140
 ### Dataset Details:
 
 - 1.6 Million Tweets
-- Labeled Sentiment: - 0 → Negative - 4 → Positive
+- Labeled Sentiment: 0 → Negative or 4 → Positive
 - Columns include:
 - Target (sentiment)
 - Tweet ID
