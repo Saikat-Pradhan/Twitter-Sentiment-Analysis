@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
 ![TF-IDF](https://img.shields.io/badge/Vectorizer-TF--IDF-yellow)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-Classification-purple)
+![Logistic Regression](https://img.shields.io/badge/Logistic-Regression-purple)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment--Analysis-blueviolet)
 ![Pickle](https://img.shields.io/badge/Model-Serialization-lightgrey)
 
