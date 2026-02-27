@@ -24,9 +24,9 @@ Built using Python, Scikit-learn, NLTK, and Streamlit, and deployed online for r
 - #### This project demonstrates how Machine Learning and NLP techniques can analyze textual data and classify sentiment.
 
 - #### Users can:
--- Enter any tweet text
--- Click Analyze
--- Instantly get sentiment prediction (Positive / Negative)
+- Enter any tweet text
+- Click Analyze
+- Instantly get sentiment prediction (Positive / Negative)
 
 - #### The model preprocesses text, removes stopwords, applies stemming, vectorizes the text, and predicts sentiment using a trained ML model.
 
@@ -68,9 +68,7 @@ https://www.kaggle.com/datasets/kazanova/sentiment140
 ### Dataset Details:
 
 - 1.6 Million Tweets
-- Labeled Sentiment:
- - 0 → Negative
- - 4 → Positive
+- Labeled Sentiment: - 0 → Negative - 4 → Positive
 - Columns include:
 - Target (sentiment)
 - Tweet ID
